@@ -1,0 +1,42 @@
+.kotak{
+    position: relative;
+    left: 25%;
+    
+}
+
+
+.kotak-1 {
+    background-image: linear-gradient(rgb(53, 50, 50), #1ea351, #332d2d);
+    padding: 50px;
+
+}
+
+.kotak-2 {
+    background-image: linear-gradient(rgb(53, 50, 50), #1ea351, #332d2d);
+    padding: 50px;
+}
+
+.kotak-3 {
+    background-image: linear-gradient(rgb(53, 50, 50), #1ea351, #332d2d);
+    padding: 50px;
+}
+
+
+.kotak-1:hover {
+    background-image: linear-gradient(rgb(53, 50, 50), #9aa31e, #332d2d);
+    padding: 50px;
+    border-radius: 50%;
+    
+}
+
+.kotak-2:hover {
+    background-image: linear-gradient(rgb(53, 50, 50),#9aa31e, #332d2d);
+    padding: 50px;
+    border-radius: 50%;
+}
+
+.kotak-3:hover {
+    background-image: linear-gradient(rgb(53, 50, 50),#9aa31e, #332d2d);
+    padding: 50px;
+    border-radius: 50%;
+}

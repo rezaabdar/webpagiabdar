@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(144, 223, 226);
+    width: 100%;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+#kepala{
+    font-weight: bold;
+    font-size: 25px;
+    background-color: coral;
+    text-align: center;
+    color: crimson;
+}
+.nomor{
+    font-weight: bold;
+    font-size: 10px;
+    background-color: coral;
+    text-align: center;
+    color: crimson;
+}
+
